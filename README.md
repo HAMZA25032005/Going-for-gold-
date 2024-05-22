@@ -1,1 +1,1 @@
-"Going for Gold" is a dynamic quiz game built with the MERN stack, featuring real-time updates using Socket.io. Players compete in timed trivia rounds, with eliminations occurring after each round until a single winner remains. The application includes a user dashboard for tracking performance and a comprehensive admin dashboard for monitoring game progress and managing players.
+
