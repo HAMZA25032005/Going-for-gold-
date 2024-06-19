@@ -4,22 +4,16 @@ A contemporary, interactive quiz web application inspired by Kahoot, "Going for 
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Architecture](#architecture)
-4. [Installation](#installation)
-5. [Usage](#usage)
+2. [Architecture](#architecture)
+3. [Installation](#installation)
+4. [Usage](#usage)
 
 
 ## Introduction 
 
 "Going for Gold" is an engaging and interactive quiz web application, inspired by Kahoot, designed to deliver a dynamic user experience. This application is built using a Node.js environment, with Express.js for the server-side and JavaScript for both the front-end and back-end. Real-time interactions are powered by Socket.IO, ensuring instantaneous updates and communication between the server and clients. MongoDB is employed for scalable and reliable data storage. The project follows Object-Oriented Programming (OOP) principles, making the codebase well-organized and easy to maintain.
 
-## Features 
 
-- **Real-time Interaction:** Leverages Socket.IO for instantaneous communication between server and clients.
-- **User Management:** Supports multiple users joining and participating in quizzes simultaneously.
-- **Dynamic Content:** Enables the creation and management of quizzes through an admin interface.
-- **Responsive Design:** Optimized for accessibility on various devices.
 
 ## Architecture 
 
