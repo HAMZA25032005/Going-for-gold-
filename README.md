@@ -31,7 +31,7 @@ To install and run the application locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/HAMZA25032005/Going-for-Gold.git
+    git clone https://github.com/HAMZA25032005/Going-for-gold.git
     cd going-for-gold
     ```
 
